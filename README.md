@@ -24,6 +24,6 @@ This HR Analytics Dashboard, built in Tableau, empowers HR leaders to identify t
 
 
 **Dashboard image**
-  ![WhatsApp Image 2024-10-30 at 16 01 48_42125245](https://github.com/user-attachments/assets/d7da99bb-80f8-46dc-a06d-82b62f4ea0a6)
+  ![WhatsApp Image 2024-10-30 at 17 31 57_a144f596](https://github.com/user-attachments/assets/fb09fc84-7697-4958-a2d0-db74bac7a284)
 
   
